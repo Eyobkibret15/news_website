@@ -1,0 +1,10 @@
+news_env
+*/conf.py
+*/_build
+*/_static
+*/__init__.py
+*/make.bat
+*/Makefile
+*/index.rst
+*/docs
+.idea
